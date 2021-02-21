@@ -1,7 +1,7 @@
 # Spam_Filter
 Creating a spam filter for SMS messages using a multinomial Naive Bayes algorithm
 
-##Install
+## Install
 
 This project requires Python 3.8.3 and the following libraries:
 
@@ -10,7 +10,7 @@ This project requires Python 3.8.3 and the following libraries:
 
 Software is also required to run a Jupyter Notebook
 
-##Data
+## Data
 
 Dataset is from the UCI Machine Learning repository, available [here](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
 
